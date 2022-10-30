@@ -1,6 +1,5 @@
 #total {
-    display: inline-flexbox;
-  
-    width: 100%;
-    height: 40%;
+  display: inline-flexbox;
+  width: 100%;
+  height: 40%;
 }
